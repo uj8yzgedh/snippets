@@ -1,19 +1,18 @@
 # Snippets
 
-Useful code snippets collected while working across projects.
+A collection of useful code snippets for everyday development.
 
 ## Categories
 
-- JavaScript / TypeScript
 - React
 - Node.js
+- Utilities
 - CSS
-- Utility functions
 
 ## Usage
 
-Each file is standalone unless noted. Copy and adapt as needed.
+Browse the folders and copy what you need. Each snippet includes a short comment at the top explaining its purpose.
 
 ## Contributing
 
-Personal repo — but feel free to open an issue if you spot a bug.
+If you have a snippet that saves you time, feel free to add it and open a PR.
